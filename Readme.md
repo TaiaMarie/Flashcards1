@@ -7,10 +7,7 @@ Front label ask a question and when it is tapped the answer is revealed
 
 ### App Walk-though
 
-
-https://i.imgur.com/OjNBnMk.gif
-
-
+<img src='https://i.imgur.com/OjNBnMk.gif' width="600" />
 
 ## Required
 - [x] Create New Project in Xcode
