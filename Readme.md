@@ -3,7 +3,7 @@ Flashcards
 ## Lab 1
 
 ### App Description
-Front label ask a question and when it is tapped the answer is revealed
+A question appears and when it is tapped the answer is revealed
 
 ### App Walk-though
 
